@@ -298,7 +298,7 @@ namespace QLD
         /// <summary>
         /// Dữ liệu trong thữa đất
         /// </summary>
-        private List<object> item;
+        private List<object> values;
         /// <summary>
         /// Tên cột trong CSDL
         /// </summary>
@@ -331,7 +331,7 @@ namespace QLD
         /// <param name="row"> Dữ liệu một dòng trong CSDL</param>
         public ThuaDat(List<object> row)
         {
-            item = row;
+            values = row;
         }
         /// <summary>
         /// Lưu cả dữ liệu kèm tên cột
@@ -340,7 +340,7 @@ namespace QLD
         /// <param name="columns_name">list column name</param>
         public ThuaDat(List<object> row, List<string> columns_name)
         {
-            item = row;
+            values = row;
             columns = columns_name;
         }
         #endregion
@@ -354,11 +354,11 @@ namespace QLD
         {
             get
             {
-                return item[i];
+                return values[i];
             }
             set
             {
-                item[i] = value;
+                values[i] = value;
             }
         }
 
@@ -371,7 +371,7 @@ namespace QLD
                 {
                     if (columns[i].Equals(column_name))
                     {
-                        return item[i];
+                        return values[i];
                     }
                 }
                 return null;
@@ -383,7 +383,7 @@ namespace QLD
                 {
                     if (columns[i].Equals(column_name))
                     {
-                        item[i] = value;
+                        values[i] = value;
                     }
                 }
             }
@@ -399,21 +399,21 @@ namespace QLD
         {
             if (stt == -1)
             {
-                object[] output = new object[item.Count];
+                object[] output = new object[values.Count];
 
-                for (int i = 0; i < item.Count; i++)
+                for (int i = 0; i < values.Count; i++)
                 {
-                    output[i] = item[i];
+                    output[i] = values[i];
                 }
                 return output;
             }
             else
             {
-                object[] output = new object[item.Count];
+                object[] output = new object[values.Count];
                 output[0] = stt;
-                for (int i = 1; i < item.Count; i++)
+                for (int i = 1; i < values.Count; i++)
                 {
-                    output[i] = item[i];
+                    output[i] = values[i];
                 }
                 return output;
             }
@@ -427,11 +427,11 @@ namespace QLD
         {
             StringBuilder output = new StringBuilder();
             int i = 0;
-            for (i = 0; i < item.Count - 1; i++)
+            for (i = 0; i < values.Count - 1; i++)
             {
-                output.Append(item[i].ToString() + ",");
+                output.Append(values[i].ToString() + ",");
             }
-            output.Append(item[i].ToString());
+            output.Append(values[i].ToString());
             return output.ToString();
         }
         /// <summary>
@@ -442,11 +442,11 @@ namespace QLD
         {
             StringBuilder output = new StringBuilder();
             int i = 0;
-            for (i = 1; i < item.Count - 1; i++)
+            for (i = 1; i < values.Count - 1; i++)
             {
-                output.Append(encode + "'" + item[i].ToString() + "',");
+                output.Append(encode + "'" + values[i].ToString() + "',");
             }
-            output.Append(encode + "'" + item[i].ToString() + "'");
+            output.Append(encode + "'" + values[i].ToString() + "'");
             return output.ToString();
         }
 
@@ -471,7 +471,7 @@ namespace QLD
         /// <returns>Count</returns>
         public int Count()
         {
-            return item.Count;
+            return values.Count;
         }
         /// <summary>
         /// Get home number in column Address
@@ -481,7 +481,7 @@ namespace QLD
         /// <returns>Home number</returns>
         public string GetHomeNumber(int index)
         {
-            return item[index].ToString().Split(' ')[0];
+            return values[index].ToString().Split(' ')[0];
         }
         /// <summary>
         /// Compare to another object
