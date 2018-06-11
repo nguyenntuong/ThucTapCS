@@ -1,0 +1,65 @@
+D:\TH\DatManager\DatManager\bin\Debug\QLD.exe.config
+D:\TH\DatManager\DatManager\bin\Debug\QLD.exe.manifest
+D:\TH\DatManager\DatManager\bin\Debug\QLD.application
+D:\TH\DatManager\DatManager\bin\Debug\QLD.exe
+D:\TH\DatManager\DatManager\bin\Debug\QLD.pdb
+D:\TH\DatManager\DatManager\obj\Debug\QLD.csproj.ResolveComReference.cache
+D:\TH\DatManager\DatManager\obj\Debug\QLD.frm_main.resources
+D:\TH\DatManager\DatManager\obj\Debug\QLD.Frm_insert.resources
+D:\TH\DatManager\DatManager\obj\Debug\QLD.Frm_merge.resources
+D:\TH\DatManager\DatManager\obj\Debug\QLD.Properties.Resources.resources
+D:\TH\DatManager\DatManager\obj\Debug\QLD.csproj.GenerateResource.cache
+D:\TH\DatManager\DatManager\obj\Debug\QLD.csproj.CoreCompileInputs.cache
+D:\TH\DatManager\DatManager\obj\Debug\QLD.exe.manifest
+D:\TH\DatManager\DatManager\obj\Debug\QLD.application
+D:\TH\DatManager\DatManager\obj\Debug\QLD.exe
+D:\TH\DatManager\DatManager\obj\Debug\QLD.pdb
+I:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe.config
+I:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe.manifest
+I:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.application
+I:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe
+I:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.pdb
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csprojResolveAssemblyReference.cache
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.ResolveComReference.cache
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.frm_main.resources
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Frm_insert.resources
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Frm_merge.resources
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Properties.Resources.resources
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.GenerateResource.cache
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.CoreCompileInputs.cache
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.exe.manifest
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.application
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.exe
+I:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.pdb
+K:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe.config
+K:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe.manifest
+K:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.application
+K:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.exe
+K:\My Drive\TH\DatManager\DatManager\bin\Debug\QLD.pdb
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.ResolveComReference.cache
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.frm_main.resources
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Frm_insert.resources
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Frm_merge.resources
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.Properties.Resources.resources
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.GenerateResource.cache
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.csproj.CoreCompileInputs.cache
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.exe.manifest
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.application
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.exe
+K:\My Drive\TH\DatManager\DatManager\obj\Debug\QLD.pdb
+I:\My Drive\TH\DatManager\QLD\bin\Debug\QLD.exe.config
+I:\My Drive\TH\DatManager\QLD\bin\Debug\QLD.exe.manifest
+I:\My Drive\TH\DatManager\QLD\bin\Debug\QLD.application
+I:\My Drive\TH\DatManager\QLD\bin\Debug\QLD.exe
+I:\My Drive\TH\DatManager\QLD\bin\Debug\QLD.pdb
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.csproj.ResolveComReference.cache
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.frm_main.resources
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.Frm_insert.resources
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.Frm_merge.resources
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.Properties.Resources.resources
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.csproj.GenerateResource.cache
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.csproj.CoreCompileInputs.cache
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.exe.manifest
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.application
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.exe
+I:\My Drive\TH\DatManager\QLD\obj\Debug\QLD.pdb
